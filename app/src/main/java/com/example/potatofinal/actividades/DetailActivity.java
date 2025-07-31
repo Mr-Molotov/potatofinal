@@ -58,6 +58,5 @@ public class DetailActivity extends AppCompatActivity {
     private void getIntentExtra() {
         object=(Item) getIntent().getSerializableExtra("object");
 
-    });
     }
-}
+    }
