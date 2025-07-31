@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/explorer"
+    android:icon="@drawable/bottom_btn1"
+    android:title="Inicio"
+    app:cnb_backgroundColor="@color/purple"
+    app:cnb_iconColor="@color/white"
+    tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/favorites"
+        android:icon="@drawable/bottom_btn2"
+        android:title="Explorar"
+        app:cnb_backgroundColor="@color/purple"
+        app:cnb_iconColor="@color/white"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/bookmark"
+        android:icon="@drawable/bottom_btn3"
+        android:title="Pestañas"
+        app:cnb_backgroundColor="@color/purple"
+        app:cnb_iconColor="@color/white"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/bottom_btn4"
+        android:title="Perfil"
+        app:cnb_backgroundColor="@color/purple"
+        app:cnb_iconColor="@color/white"
+        tools:ignore="HardcodedText" />
+</menu>

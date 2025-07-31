@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">potatofinal</string>
+    <string name="recomendaciones">Recomendaciones</string>
+    <string name="ver_m_s">Ver más</string>
+    <string name="destinos_destacados">Destinos Destacados</string>
+    <string name="buscar">Buscar</string>
+    <string name="locaciones">Locaciones</string>
+    <string name="direcci_n">Dirección...</string>
+    <string name="title">Title</string>
+</resources>

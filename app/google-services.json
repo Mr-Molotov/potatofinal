@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872670420865",
+    "project_id": "potatofinal-ds6",
+    "storage_bucket": "potatofinal-ds6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872670420865:android:2484d72161c40ca17b1280",
+        "android_client_info": {
+          "package_name": "com.example.potatofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLmPYzHhqbGvdOm4AGOgTU644xJYsrh80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
